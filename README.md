@@ -6,8 +6,8 @@
 更关注于简洁的设计  
 
 ## Start Python
-*python* from [Request](http://docs.python-requests.org/en/master/)  [PLAN](python/requests.md)
-*go* from __  [PLAN](https://opensource.com/article/18/11/learning-golang)
+*python* from [Request](http://docs.python-requests.org/en/master/)  [PLAN](python/requests.md)  
+*go* from __  [PLAN](https://opensource.com/article/18/11/learning-golang)  
 
 
 ### 关注的repositories
