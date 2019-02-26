@@ -13,3 +13,7 @@
 ### 关注的repositories
 
 > [docker-airflow](https://github.com/puckel/docker-airflow)  _watching_
+
+
+## Readlist
+[4 tips for learning Golang](https://opensource.com/article/18/11/learning-golang) --RF 4月1日
