@@ -1,5 +1,5 @@
 ## Hello Requests Hello Kenneth Reitz
-每天1个半小时的时间阅读Requests代码，一个月完成。GO～
+每天1个半小时的时间阅读Requests代码，一个月完成。GO～  [我的起点](https://www.zhihu.com/question/19840137)
 
 
 ## 进度
