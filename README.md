@@ -6,7 +6,7 @@
 更关注于简洁的设计  
 
 ## Start
-*python* from [Request](http://docs.python-requests.org/en/master/)  [PLAN](request-reading)
+*python* from [Request](http://docs.python-requests.org/en/master/)  [PLAN](python/requests)
 
 
 ### 关注的repositories
