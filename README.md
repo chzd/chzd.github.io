@@ -22,3 +22,8 @@
 [4 tips for learning Golang](https://opensource.com/article/18/11/learning-golang) --RF 4月1日  
   
 [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol) 中文翻译[点这里](https://colobu.com/2017/01/26/A-Guide-To-The-Kafka-Protocol/)
+
+
+## 没状态工作时，看这里
+
+1.read through 'A Guide To The Kafka Protocol'  
