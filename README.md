@@ -5,10 +5,13 @@
 关注于python～  
 更关注于简洁的设计  
 
-## Start Python
+## Start
 *python* from [Request](http://docs.python-requests.org/en/master/)  [PLAN](python/requests.md)  
 *go* from [etcd](https://github.com/etcd-io/etcd) [PLAN](https://opensource.com/article/18/11/learning-golang)  
 
+### about GO
+
+[**Raft工作流程初探-读raftexample_1**](go/etcd/readsource1.md)  
 
 ### 关注的repositories
 
