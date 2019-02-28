@@ -13,8 +13,8 @@ The rafteexample project consists of three componets: a raft-backed **key-value 
 **rd.HardState**: `[{"term":10,"vote":1,"commit":24}]`, **rd.Entries**:`[[{"Term":10,"Index":24,"Type":0,"Data":"IP+BAwEBAmt2Af+CAAECAQNLZXkBDAABA1ZhbAEMAAAAEP+CAQYva2V5MTUBA2ZvbwA="}]]`。所有的这些信息会被追加到rc.raftStorage中，raftStorage中存储了上次快照保存之后所有commits。`rc.node.Ready()`返回数据之后。会通过rc.transport.Send(rd.Message).然后`rc.publishEntries(rc.entriesToApply(rd.CommittedEntries)`,把本次要提交的数据通过rc.publishEntries传给通道commitC，由kvstore存储到其map中供查询。
 
 集群管理使用的元数据采用了类似于redis集群的元数据。
-**Term**: 
-初始状态为1，进行一次选举之后变为2。
+**Term**:  
+初始状态为1，进行一次选举之后变为2。  
 **Index**:
 用于标识用户的一次提交。如果提交正常。
 
