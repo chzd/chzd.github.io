@@ -1,5 +1,6 @@
 ## RaftExample
-我们先通过RaftExample来初步了解raft的工作流
+我们先通过RaftExample来初步了解raft的工作流。
+阅读源码过程中我们需要注意下面两个不同的goroutine
 * raft goroutine And application goroutine
 
 ### contrib/raftexample
