@@ -23,6 +23,12 @@
   
 [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol) 中文翻译[点这里](https://colobu.com/2017/01/26/A-Guide-To-The-Kafka-Protocol/)
 
+[raft-英文论文](https://ramcloud.atlassian.net/wiki/download/attachments/6586375/raft.pdf)   [中文翻译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) 2019-03-01
+> We believe that the overall problem of reaching consensus
+on multiple decisions (i.e., a log instead of a single entry)
+can be decomposed in other ways that are more direct and
+obvious.
+
 
 ## 没状态工作时，看这里
 
